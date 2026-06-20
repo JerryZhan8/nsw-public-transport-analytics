@@ -1,6 +1,7 @@
 # nsw-public-transport-analytics
 Tableau dashboard analysing NSW public transport performance and usage trends.
-Project Overview
+
+## Project Overview
 
 This project analyses public transport usage across New South Wales (NSW) using Tableau to uncover travel patterns, passenger demand, station activity, and peak versus off-peak utilisation trends.
 
