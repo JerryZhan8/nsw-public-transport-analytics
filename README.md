@@ -75,6 +75,9 @@ Station ranking visualisations
 Scatter plots for entries versus exits
 Peak and off-peak demand comparisons
 
+## Operations Overview
+<img width="1443" height="722" alt="image" src="https://github.com/user-attachments/assets/0ff4ba94-1af9-4b73-af25-f95fb3893388" />
+
 ## Key Insights
 **Trains and Buses Dominate NSW Public Transport Usage**
 
