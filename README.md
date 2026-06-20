@@ -14,7 +14,8 @@ Total trips by transport mode
 Peak versus off-peak demand analysis
 Top-performing stations by passenger volume
 Station entry and exit analysis
-Business Problem
+
+## Business Problem
 
 Transport authorities need to understand how public transport demand changes over time to ensure services remain efficient, reliable, and aligned with passenger needs.
 
@@ -29,7 +30,7 @@ Where should future investment and service improvements be prioritised?
 
 Without clear visibility of these trends, transport operators may face challenges in capacity planning, scheduling, and infrastructure investment decisions.
 
-Dataset Description
+## Dataset Description
 
 The dataset contains NSW public transport patronage information across multiple transport modes and stations.
 
@@ -50,7 +51,7 @@ Time Period
 
 The dashboard analyses historical transport data across multiple years, enabling trend analysis before, during, and after major transport disruptions.
 
-Analysis Approach
+## Analysis Approach
 
 The project followed a structured data analytics workflow:
 
@@ -73,26 +74,27 @@ Comparative bar charts
 Station ranking visualisations
 Scatter plots for entries versus exits
 Peak and off-peak demand comparisons
-Key Insights
-Trains and Buses Dominate NSW Public Transport Usage
+
+## Key Insights
+**Trains and Buses Dominate NSW Public Transport Usage**
 
 Train and bus services account for the vast majority of trips across the network, significantly outperforming metro, ferry, and light rail services.
 
 This indicates that these modes remain the backbone of the NSW transport system.
 
-Significant Decline During Disruption Periods
+**Significant Decline During Disruption Periods**
 
 Passenger volumes experienced a sharp decline during major disruption periods, with train and bus patronage dropping substantially.
 
 The recovery trend observed afterwards demonstrates a gradual return to public transport usage.
 
-Peak-Hour Travel Remains the Primary Demand Driver
+**Peak-Hour Travel Remains the Primary Demand Driver**
 
 Peak-period travel volumes are considerably higher than off-peak demand.
 
 This suggests that commuting continues to be the primary purpose of public transport use across NSW.
 
-Central Business District Stations Handle the Highest Traffic
+**Central Business District Stations Handle the Highest Traffic**
 
 Stations such as:
 
@@ -102,13 +104,13 @@ Wynyard
 
 record the highest passenger volumes, reflecting their importance as key transport hubs within Sydney's CBD network.
 
-Strong Correlation Between Entries and Exits
+**Strong Correlation Between Entries and Exits**
 
 The entries-versus-exits analysis shows a strong positive relationship between station arrivals and departures.
 
 This indicates balanced passenger flow across the network and highlights the consistency of station usage patterns.
 
-Recommendations
+## Recommendations
 Optimise Capacity During Peak Periods
 
 Increase service frequency and capacity during peak commuting hours to reduce congestion and improve passenger experience.
@@ -129,7 +131,7 @@ Leverage Data-Driven Planning
 
 Use historical demand patterns to improve forecasting, route planning, and resource allocation decisions.
 
-Skills Demonstrated
+## Skills Demonstrated
 Data Analysis
 Trend Analysis
 Time Series Analysis
@@ -150,7 +152,8 @@ Data Cleaning
 Data Transformation
 Data Validation
 Data Aggregation
-Tools Used
+
+## Tools Used
 Tool	Purpose
 Tableau Public	Dashboard development and visualisation
 SQL	Data extraction and aggregation
